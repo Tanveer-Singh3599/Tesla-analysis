@@ -1,0 +1,25 @@
+Tesla Churn Analysis.
+
+Objective:
+To know the reason why tesla customers switched to other companies. It will help to understand the flaws in tesla cars which are overshadowed by the hype of tesla in EV market. It's from customer's POV.
+
+Data sources:
+1) customers reviews and complaints. Trustpilot (https://www.trustpilot.com/review/tesla.com).
+
+Asumptions: 
+1) Customer reviews are not baised or paid.
+
+Constraints:
+1) Have limited review data.
+2) Have to create features by analysing unstructured data.
+
+Conserns:
+1) Data can be baised (Based on personal views of customers).
+2) Helpful features may go unnoticed (Further work may be required to enhance feature set).
+
+Expected outcomes:
+A full fleged, charts included, well documented report on listed points:
+1) What is motivation of people to but tesla car.
+2) What are the major reasons for people to drop a tesla car.
+3) Major problems with tesla cars.
+4) Possible solutions for Tesla. co to improve and hold it's customer base.
